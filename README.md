@@ -1,2 +1,2 @@
 # coding
-Coding help related websites list
+Helpful coding related websites list
